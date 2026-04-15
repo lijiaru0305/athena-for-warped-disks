@@ -18,6 +18,11 @@ The main setup fixes the disk inclination at the inner and outer radial boundari
 - tilted initial conditions
 - fixed-tilt radial boundary conditions
 
+## Examples
+Example setups can be found in `~/examples`. Each example typically includes the source code, an input file, and a notebook for analysis. Current examples include:
+
+- 2d viscous accretion disk with a density gap `~/examples/2d/`
+
 ## Build
 
 ```bash
