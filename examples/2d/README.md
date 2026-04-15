@@ -41,7 +41,7 @@ The following files are included:
   Athena++ input parameter file for this problem. It specifies the mesh, runtime options, hydrodynamic parameters, problem parameters, and output settings.
   
 - `diagnosis.ipynb`  
-  Jupyter notebook for post-processing and visualizing simulation outputs. Useful for checking the density profile, gap structure, velocity field, and other diagnostics.
+  Jupyter notebook for post-processing and visualizing simulation outputs. Useful for checking the density profile and other diagnostics. **Data not included**.
 
 - `disk_2d_viscous_gap.cpp`  
   Athena++ problem generator source file. This is the main physics setup, including the disk initial condition, density gap, viscosity prescription, and user-defined boundary conditions. This file is duplicated from `~/src/pgen/disk_2d_viscous_gap.cpp`.
