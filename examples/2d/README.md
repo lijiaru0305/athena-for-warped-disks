@@ -44,7 +44,7 @@ The following files are included:
   Jupyter notebook for post-processing and visualizing simulation outputs. Useful for checking the density profile, gap structure, velocity field, and other diagnostics.
 
 - `disk_2d_viscous_gap.cpp`  
-  Athena++ problem generator source file. This is the main physics setup, including the disk initial condition, density gap, viscosity prescription, and user-defined boundary conditions.
+  Athena++ problem generator source file. This is the main physics setup, including the disk initial condition, density gap, viscosity prescription, and user-defined boundary conditions. This file is duplicated from `~/src/pgen/disk_2d_viscous_gap.cpp`.
 
 - `Makefile`  
   Makefile that can be used to compile this version of Athena++ executable.
