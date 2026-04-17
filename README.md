@@ -22,6 +22,7 @@ The main setup fixes the disk inclination at the inner and outer radial boundari
 Example setups can be found in `~/examples`. Each example typically includes the source code, an input file, and a notebook for analysis. Current examples include:
 
 - 2d viscous accretion disk with a density gap `~/examples/2d/`
+- 3d warped accretion disk, with initial $\beta$ profile being a linear function `~/examples/warp-disk-linear-beta-init/`
 
 ## Build
 
